@@ -1,0 +1,7 @@
+C:\Users\Jaspon\source\repos\Exercises\NthPrime\bin\Debug\NthPrime.exe.config
+C:\Users\Jaspon\source\repos\Exercises\NthPrime\bin\Debug\NthPrime.exe
+C:\Users\Jaspon\source\repos\Exercises\NthPrime\bin\Debug\NthPrime.pdb
+C:\Users\Jaspon\source\repos\Exercises\NthPrime\obj\Debug\NthPrime.csprojAssemblyReference.cache
+C:\Users\Jaspon\source\repos\Exercises\NthPrime\obj\Debug\NthPrime.csproj.CoreCompileInputs.cache
+C:\Users\Jaspon\source\repos\Exercises\NthPrime\obj\Debug\NthPrime.exe
+C:\Users\Jaspon\source\repos\Exercises\NthPrime\obj\Debug\NthPrime.pdb
